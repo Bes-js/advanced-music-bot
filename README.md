@@ -6,8 +6,8 @@ TR; Güncel v14 Discord Muzik Botu,Tüm Platformları Destekliyen,Dil Ayarlı Di
 - EN; Shared on 40 Stars.
 - TR; 40 Star'da Paylaşılacaktır.
 
-# Contact / İletişim
-
 [ My Discord Profile / Discord Profilim ](https://discord.com/users/928259219038302258)
+
+# Contact / İletişim
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/928259219038302258?hideDiscrim=true)](https://discord.com/users/928259219038302258)
 
