@@ -4,8 +4,8 @@
 
 - TR; Güncel v14 Discord Muzik Botu,Tüm Platformları Destekliyen,Dil Ayarlı Discord Botu.
 
-- EN; Shared on 40 Stars.
-- TR; 40 Star'da Paylaşılacaktır.
+- EN; Shared on 20 Stars.
+- TR; 20 Star'da Paylaşılacaktır.
 
 [ My Discord Profile / Discord Profilim ](https://discord.com/users/928259219038302258)
 
