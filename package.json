@@ -1,0 +1,50 @@
+{
+  "name": "advanced-music-bot",
+  "version": "1.0.0",
+  "description": "🎵 Music Bot Supporting All Languages",
+  "main": "index.js",
+  "scripts": {
+    "build": "node build",
+    "test": "node index.js",
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": "16.x"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bes-js/advanced-music-bot"
+  },
+  "keywords": [
+    "discord",
+    "advanced-music-bot",
+    "music",
+    "music-bot",
+    "spotify",
+    "youtube",
+    "soundcloud",
+    "lavalink",
+    "discord-api",
+    "discord-music",
+    "discord-music-bot",
+    "discord-v14",
+    "discord-v14-music"
+  ],
+  "author": "Bes-js",
+  "license ": "GPL-3.0",
+  "bugs": "https://github.com/Bes-js/advanced-music-bot",
+  "homepage": "https://github.com/Bes-js/advanced-music-bot",
+  "dependencies": {
+    "delay": "^5.0.0",
+    "discord.js": "^14.11.0",
+    "erela.js": "^2.3.3",
+    "erela.js-spotify": "^1.2.0",
+    "fs": "^0.0.1-security",
+    "lodash": "^4.17.21",
+    "lyrics-finder": "^21.7.0",
+    "moment": "^2.29.1",
+    "moment-duration-format": "^2.3.2",
+    "node-google-translate-skidz": "^1.1.2",
+    "pretty-ms": "^7.0.1"
+  }
+}

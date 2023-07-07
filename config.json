@@ -1,0 +1,15 @@
+{
+  "token":"Your Discord Bot Token",
+  "prefix": ".",
+  
+  "clientID": "Spotify clientID",
+  "clientSecret": "Spotify clientSecret",
+  "nodes": [
+    {
+    "host" : "narco.buses.rocks",
+    "port" : 2269,
+    "password" : "glasshost1984",
+    "secure" : false
+    }
+  ]
+  }
