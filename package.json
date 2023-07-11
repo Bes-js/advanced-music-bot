@@ -37,6 +37,7 @@
   "dependencies": {
     "delay": "^5.0.0",
     "discord.js": "^14.11.0",
+    "five.db":"^0.0.8",
     "erela.js": "^2.3.3",
     "erela.js-spotify": "^1.2.0",
     "fs": "^0.0.1-security",
