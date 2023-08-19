@@ -144,7 +144,7 @@ Do note that the bot will restart itself to update to the latest!
 Distributed under the GPL-3.0 license License. See ![LICENSE](https://img.shields.io/github/license/Bes-js/advanced-music-bot?style=social) for more information.
 
 ## 🔵 My Discord Profile
-<a href="https://discord.com/users/928259219038302258"><img  width="250px" src="https://luppufy.onrender.com/member/928259219038302258?border=ff0000"></a> 
+<a href="https://discord.com/users/928259219038302258"><img  width="250px" src="https://luppufy-api.onrender.com/member/928259219038302258?border=ff0000"></a> 
 
 ## ☕ Donate & ❓ Support
 Do you like this project? Support it by donating
